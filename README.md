@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Trying to fine tune my skills and seeking to contribute in a team environment.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack or Front end projects.<br><br>🌱 **I’m currently learning:**  <br>MongoDB and AWS Services.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Express.js, Node.js, PostgreSQL, and some general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Trying to fine tune my skills and seeking to contribute in a team environment.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack or Front end projects.<br><br>🌱 **I’m currently learning:**  <br>MongoDB and AWS Services.<br><br>💬 **You can ask me about:**  <br>JavaScript, React, Express.js, Node.js, PostgreSQL, and some general software development questions.<br><br>
 
 
 ## 🌐 My Socials:
